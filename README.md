@@ -5,36 +5,37 @@ Website ini adalah proyek sistem informasi sekolah berbasis web statis (HTML/CSS
 ---
 
 ## Struktur Folder
-Website Informasi Sekolah/
-└── FARSHA NUMA RIFAI_KELOMPOK01/
-    ├── 404.html
-    ├── index.html
-    ├── login.html
-    ├── admin/
-    │   ├── dashboard.html
-    │   ├── data-guru.html
-    │   ├── data-siswa.html
-    │   ├── jadwal.html
-    │   ├── jurusan.html
-    │   ├── loading.html
-    │   ├── pengumuman.html
-    │   └── profil.html
-    │   └── setting.html
-    ├── guru/
-    │   ├── dashboard.html
-    │   ├── input-nilai.html
-    │   ├── input-nilai-form.html
-    │   ├── jadwal.html
-    │   ├── loading.html
-    │   ├── pengumuman.html
-    │   ├── profil.html
-    │   └── setting.html
-    └── siswa/
-        ├── dashboard.html
-        ├── jadwal.html
-        ├── lihat-nilai.html
-        ├── loading.html
-        ├── pengumuman.html
+```bash
+FARSHA NUMA RIFAI_KELOMPOK01/
+├── 404.html
+├── index.html
+├── login.html
+├── admin/
+│   ├── dashboard.html
+│   ├── data-guru.html
+│   ├── data-siswa.html
+│   ├── jadwal.html
+│   ├── jurusan.html
+│   ├── loading.html
+│   ├── pengumuman.html
+│   ├── profil.html
+│   └── setting.html
+├── guru/
+│   ├── dashboard.html
+│   ├── input-nilai-form.html
+│   ├── input-nilai.html
+│   ├── jadwal.html
+│   ├── loading.html
+│   ├── pengumuman.html
+│   ├── profil.html
+│   └── setting.html
+└── siswa/
+    ├── dashboard.html
+    ├── jadwal.html
+    ├── lihat-nilai.html
+    ├── loading.html
+    └── pengumuman.html
+```
 
 
 ---
@@ -104,6 +105,6 @@ Tidak perlu instalasi khusus.
 
 ## Developer
 
-- Kelompok 01 – Farsha Numa Rifai dan tim
+- Saya
 
 
