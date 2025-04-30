@@ -1,6 +1,6 @@
 # Sistem Informasi Sekolah
 
-Website ini adalah proyek sistem informasi sekolah berbasis web statis (HTML/CSS/JS) yang menampilkan berbagai modul sesuai peran pengguna seperti admin, guru, dan siswa.
+Website ini adalah proyek sistem informasi sekolah berbasis web statis sebagai contoh untuk simulasi USK.
 
 ---
 
@@ -71,7 +71,7 @@ Sistem Informasi Sekolah/
 
 ## Teknologi yang Digunakan
 
-- HTML5
+- HTML
 - JavaScript
 - CSS
 
@@ -79,11 +79,8 @@ Sistem Informasi Sekolah/
 
 ## Cara Menjalankan
 
-Tidak perlu instalasi khusus.
-
 1. Download atau clone repo ini.
 2. Buka file `index.html` atau `login.html` langsung di browser.
-3. Navigasi ke folder `admin/`, `guru/`, atau `siswa/` untuk melihat tampilan masing-masing peran.
 
 ---
 
